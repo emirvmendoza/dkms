@@ -1,3 +1,11 @@
+Work-in-progress
+
+Motivation: To set up DKMS to auto-compile on kernel update patjak/facetimehd: https://github.com/patjak/facetimehd/wiki/Installation
+
+The mkdsc and mkdeb functions were deleted in 2021.
+
+Rest of document is from upstream:
+
 # Dynamic Kernel Module System (DKMS)
 
 This intention of this README is to explain how DKMS can be used in conjunction with tarballs which contain a `dkms.conf` file within them.
