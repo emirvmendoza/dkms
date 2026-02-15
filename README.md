@@ -2,7 +2,7 @@ Work-in-progress
 
 Motivation: To set up DKMS to auto-compile on kernel update patjak/facetimehd: https://github.com/patjak/facetimehd/wiki/Installation
 
-The mkdsc and mkdeb functions were deleted in 2021.
+The mkdsc and mkdeb functions were deleted in 2021, see https://bugs-devel.debian.org/challenge.html?original=%2f1009179 and https://github.com/dkms-project/dkms/commit/68b083eaa3f71c166adfece8e4f760e0cdf96185
 
 Rest of document is from upstream:
 
